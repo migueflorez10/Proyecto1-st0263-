@@ -20,6 +20,8 @@ demanda de sistemas capaces de manejar grandes volúmenes de datos de manera efi
 combine lo mejor de los mundos de almacenamiento basado en bloques y en objetos, ofreciendo una alternativa robusta para el almacenamiento y acceso distribuido de archivos.
 
 ### 1.2 Caracteristicas
+![image](https://github.com/migueflorez10/Proyecto1-st0263-/assets/68928440/8c55d15c-a91a-4195-aba3-65e2ab5f3e21)
+
 - **Basado en Bloques con Enfoque WORM:** Aprovecha la eficiencia del almacenamiento por bloques y la simplicidad del enfoque WORM para optimizar el acceso y la gestión de datos.
 - **Replicación y Distribución de Datos:** Implementa un algoritmo para la distribución y replicación de bloques, asegurando que cada bloque se almacene en al menos dos DataNodes para la tolerancia a fallos.
 - **Comunicaciones Eficientes:** Utiliza dos tipos de protocolos, el Canal de Control y el Canal de Datos, para manejar las operaciones entre los clientes y DataNodes, así como entre los diferentes componentes del sistema.
