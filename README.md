@@ -28,7 +28,7 @@ combine lo mejor de los mundos de almacenamiento basado en bloques y en objetos,
 - **Integración Transparente:** Aunque el sistema se orienta principalmente hacia la replicación y distribución basada en bloques, ofrece una transparencia similar a la de los sistemas operativos en el acceso a archivos, tanto locales como remotos.
 - **Optimización de Recursos:** El NameNode desempeña un papel crucial en la selección de DataNodes para la escritura de archivos, basándose en criterios de optimización para mejorar el rendimiento y la eficiencia.
 
-- ## 2. Informe general de Diseño de Alto Nivel, Arquitectura, Patronesy Mejores prácticas utilizadas
+## 2. Informe general de Diseño de Alto Nivel, Arquitectura, Patronesy Mejores prácticas utilizadas
 El diseño de nuestro Sistema de Archivos Distribuidos Minimalista sigue un enfoque modular y escalable, priorizando la eficiencia, la robustez y la facilidad de mantenimiento. A continuación, se describen los componentes principales del diseño, 
 la arquitectura general y las metodologías aplicadas:
 
